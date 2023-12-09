@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/miracneroid/portfolio-page?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/miracneroid/portfolio-page?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/miracneroid?style=social)](https://twitter.com/intent/follow?screen_name=miracneroid)
-[![YouTube Video Views](https://img.shields.io/youtube/views/miracenroid?style=social)](https://youtu.be/@miracneroid)
+[![YouTube Video Views](https://img.shields.io/youtube/views/miracenroid?style=social)](https://www.youtube.com/@miracneroid)
 
 This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
